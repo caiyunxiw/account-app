@@ -14,5 +14,6 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "proxy":"https://5b7fbb11af5e5600144d5f38.mockapi.io/api/v1/"
 }
